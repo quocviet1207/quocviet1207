@@ -1,6 +1,5 @@
-<h1 align="center">Hiii 👋 
-  I'm Viet</h1>
-<h3 align="center">A passionate ROBOTICS and AI/ML from Vietnam 🇻🇳</h3>
+<h1 align="center">Hiii 👋 I'm Viet</h1>
+<h3 align="center">A passionate Robotics and AI/ML from Vietnam </h3>
 
 - 🔭 I’m currently try to **build something cool in Robotics and AI/ML**
 
