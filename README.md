@@ -1,4 +1,5 @@
-<h1 align="center">Wassup 👋, I'm Viet</h1>
+<h1 align="center">Wassup 👋 
+  I'm Viet</h1>
 <h3 align="center">A passionate ROBOTICS and AI/ML from Vietnam 🇻🇳</h3>
 
 - 🔭 I’m currently working on **something cool in Robotics and AI/ML**
@@ -7,7 +8,7 @@
 
 - 🤝 I’m looking for help with **how to be a Robotic Engineering in the future**
 
-- 📫 How to reach me **phamlequocviet1207@gmail.com**
+- 📫 You can reach out to me at: **phamlequocviet1207@gmail.com**
 
 - ⚡ Fun fact **I tried python 🐍 and stork🪿 once and it was okay👍**
 
