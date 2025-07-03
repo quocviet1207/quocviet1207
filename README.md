@@ -2,15 +2,15 @@
   I'm Viet</h1>
 <h3 align="center">A passionate ROBOTICS and AI/ML from Vietnam 🇻🇳</h3>
 
-- 🔭 I’m currently working on **something cool in Robotics and AI/ML**
+- 🔭 I’m currently try to **build something cool in Robotics and AI/ML**
 
 - 🌱 I’m currently learning **Pytorch, AI/ML, Robotics**
 
-- 🤝 I’m looking for help with **how to be a Robotic Engineering in the future**
+- 🤝 I’m looking for help with **how to be a Robotic Engineering in the future 🤖**
 
 - 📫 You can reach out to me at: **phamlequocviet1207@gmail.com**
 
-- ⚡ Fun fact **I tried python 🐍 and stork🪿 once and it was okay👍**
+- ⚡ Fun fact **I tried python 🐍 and stork🪿 It was okay👍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
