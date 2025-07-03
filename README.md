@@ -1,5 +1,8 @@
-<h1 align="center">Hiii 👋 I'm Viet</h1>
-<h3 align="center">A passionate Robotics and AI/ML from Vietnam </h3>
+<h1 align="center"> 👋 About Me:</h1>
+Hiii! Welcome to my GitHub landing page!
+My name is Viet, a rising junior in Computer Engineering with a minor in Robotics at the University at Buffalo.
+I was a CS student at first, but I want to have more hands-on experience; that's why I switched to CE. And working with hardware is great so far for me.
+In Robotics, I am currently interested in working on the perception of Robotics, such as SLAM.
 
 - 🔭 I’m currently try to **build something cool in Robotics and AI/ML**
 
