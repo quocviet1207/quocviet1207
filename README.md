@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 About Me:</h1>
+<h1> 👋 About Me:</h1>
 Hiii! Welcome to my GitHub landing page!
 My name is Viet, a rising junior in Computer Engineering with a minor in Robotics at the University at Buffalo.
 I was a CS student at first, but I want to have more hands-on experience; that's why I switched to CE. And working with hardware is great so far for me.
