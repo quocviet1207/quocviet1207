@@ -1,8 +1,7 @@
 <h1> 👋 About Me:</h1>
 Hiii! Welcome to my GitHub landing page!
 My name is Viet, a rising junior in Computer Engineering with a minor in Robotics at the University at Buffalo.
-I was a CS student at first, but I want to have more hands-on experience; that's why I switched to CE. And working with hardware is great so far for me.
-In Robotics, I am currently interested in working on the perception of Robotics, such as SLAM.
+I was a CS student at first, but I want to have more hands-on experience; that's why I switched to CE. And working with hardware is great so far for me. However, as you know that doing a hardware project is so much harder than software, which you need to buy different electronic components, limited resources, etc. But yeh, I hope that I can figure out what I'm really interested in hardware. For software, tbh I'm not that into website development, but it is fine for me to work on projects in AI/ML, such as computer vision. Besides that, in Robotics, I am currently interested in working on the perception of Robotics, such as SLAM.
 
 - 🔭 I’m currently try to **build something cool in Robotics and AI/ML**
 
