@@ -3,22 +3,20 @@ Hiii! Welcome to my GitHub landing page!<br /> <br />
 My name is Viet, a rising junior in Computer Engineering with a minor in Robotics at the University at Buffalo.<br /> <br />
 I was a CS student at first, but I want to have more hands-on experience; that's why I switched to CE. And working with hardware is great so far for me. <br /> <br />
 However, as you know that doing a hardware project is so much harder than software, which you need to buy different electronic components, limited resources, etc. But yeh, I hope that I can figure out what I'm really interested in hardware. <br /> <br />
-For software, tbh I'm not that into website development, but I love working on projects with AI/ML, such as computer vision. Besides that, in Robotics, I am currently interested in working on the perception of Robotics, such as SLAM.
+For software, tbh I'm not that into website development, but I love working on projects with AI/ML, such as computer vision. Besides that, in Robotics, I am currently interested in working on the perception of Robotics, such as SLAM. <br /><br />
 
-- 🔭 I’m currently try to **build something cool in Robotics and AI/ML**
+🔭 I’m currently trying to **build something cool in Robotics and AI/ML** <br />
 
-- 🌱 I’m currently learning **Pytorch, AI/ML, Robotics**
+🌱 I’m currently learning **Pytorch, AI/ML, Robotics** <br />
 
-- 🤝 I’m looking for help with **how to be a Robotic Engineering in the future 🤖**
+🤝 I’m looking for help with **how to be a Robotic Engineering in the future 🤖** <br />
 
-- 📫 You can reach out to me at: **phamlequocviet1207@gmail.com**
+📫 You can reach out to me at: **phamlequocviet1207@gmail.com** <br />
 
-- ⚡ Fun fact **I tried python 🐍 and stork🪿 It was okay👍**
+⚡ Fun fact **I ate python 🐍 and stork🪿** <br />
 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=quocviet1207&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=quocviet1207&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
