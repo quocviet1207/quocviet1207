@@ -15,11 +15,6 @@ For software, tbh I'm not that into website development, but I love working on p
 
 ⚡ Fun fact **I ate python 🐍 and stork🪿** <br />
 
-
-# 📊 GitHub Stats:
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <h1>⛓️‍💥Connect with me:</h1>
 <p align="center">
 <a href="https://linkedin.com/in/le-quoc-viet-pham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="le-quoc-viet-pham" height="30" width="40" /></a>
