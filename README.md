@@ -13,7 +13,7 @@ For software, tbh I'm not that into website development, but I love working on p
 
 📫 You can reach out to me at: **phamlequocviet1207@gmail.com** <br />
 
-⚡ Fun fact **I ate python 🐍 and stork🪿** <br />
+⚡ Fun fact **I had tried to eat python 🐍 and stork🪿** <br />
 
 <h1>⛓️‍💥Connect with me:</h1>
 <p align="center">
