@@ -1,19 +1,15 @@
 <h1> 👋 About Me:</h1>
-Hiii! Welcome to my GitHub landing page!<br /> <br />
-My name is Viet, a rising junior in Computer Engineering with a minor in Robotics at the University at Buffalo.<br /> <br />
-I was a CS student at first, but I want to have more hands-on experience; that's why I switched to CE. And working with hardware is great so far for me. <br /> <br />
-However, as you know that doing a hardware project is so much harder than software, which you need to buy different electronic components, limited resources, etc. But yeh, I hope that I can figure out what I'm really interested in hardware. <br /> <br />
-For software, tbh I'm not that into website development, but I love working on projects with AI/ML, such as computer vision. Besides that, in Robotics, I am currently interested in working on the perception of Robotics, such as SLAM. <br /><br />
+I used to be a CS student — until I realized I'd rather **solder things at 2 AM** than just stare at a terminal. So I made the jump to **Computer Engineering**, and honestly? No regrets. There's something deeply satisfying about watching code come alive on actual hardware, even when it means hunting down a rogue wire for three hours. I'm not your typical "let me build a website" kind of dev. What gets me excited is building machines that interact with the real world. I enjoy the challenge of combining **hardware, robotics, and intelligent systems** to create something that can actually move, sense, and make decisions. <br />
 
-🔭 I’m currently trying to **build something cool in Robotics and AI/ML** <br />
+Right now, my goal is to pursue a PhD and continue working in robotics and hardware, exploring how we can design smarter and more capable machines.
 
-🌱 I’m currently learning **Pytorch, AI/ML, Robotics** <br />
+🔭 I wanna **contribute/make something cool in Robotics & AI/ML** <br />
 
-🤝 I’m looking for help with **how to be a Robotic Engineering in the future 🤖** <br />
+🌱 I’m currently sharpening my skills in **Embedded System, PCB Design, AI/ML, Robotics** <br />
+
+🤝 I love to have a conversation about **the path to becoming a Robotic Engineering 🤖** <br />
 
 📫 You can reach out to me at: **phamlequocviet1207@gmail.com** <br />
-
-⚡ Fun fact **I had tried to eat python 🐍 and stork🪿** <br />
 
 <h1>⛓️‍💥Connect with me:</h1>
 <p align="center">
