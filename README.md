@@ -1,6 +1,6 @@
 <h1> 👋 About Me:</h1>
 I used to be a CS student — until I realized I'd rather <b>solder things at 2 AM</b> than just stare at a terminal. So I made the jump to <b>Computer Engineering</b>, and honestly? No regrets. There's something deeply satisfying about watching code come alive on actual hardware, even when it means hunting down a rogue wire for three hours. I'm not your typical "let me build a website" kind of dev. What gets me excited is building machines that interact with the real world. I enjoy the challenge of combining <b>hardware, robotics, and intelligent systems</b> to create something that can actually move, sense, and make decisions. <br /> <br /> <br />
-Right now, my goal is to pursue a PhD and continue working in robotics and hardware, exploring how we can design smarter and more capable machines. <br />
+Right now, my goal is to pursue a PhD and continue working in robotics and hardware, exploring how we can design smarter and more capable machines. <br /> <br />
 
 🔭 I wanna **contribute/make something cool in Robotics & AI/ML** <br />
 
